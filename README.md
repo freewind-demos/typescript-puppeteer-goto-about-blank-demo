@@ -1,5 +1,5 @@
-TypeScript Puppeteer Demo
-=======================================
+TypeScript Puppeteer Goto About Blank Demo
+==========================================
 
 ```
 npm install -g puppeteer
